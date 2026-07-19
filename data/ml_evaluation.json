@@ -1,0 +1,72 @@
+{
+  "model_name": "Lightweight Isolation Forest (100 random trees)",
+  "training_records": 2160,
+  "records_evaluated": 336,
+  "threshold": 0.6041,
+  "ml_alert_count": 12,
+  "rule_alert_count": 2,
+  "rule_alert_matches": 2,
+  "ml_alerts": [
+    {
+      "timestamp": "2026-07-01 19:00",
+      "score": 0.6067,
+      "litres_used": 38.16
+    },
+    {
+      "timestamp": "2026-07-04 10:00",
+      "score": 0.6909,
+      "litres_used": 44.61
+    },
+    {
+      "timestamp": "2026-07-05 10:00",
+      "score": 0.6541,
+      "litres_used": 32.79
+    },
+    {
+      "timestamp": "2026-07-06 00:00",
+      "score": 0.621,
+      "litres_used": 14.74
+    },
+    {
+      "timestamp": "2026-07-06 06:00",
+      "score": 0.615,
+      "litres_used": 42.51
+    },
+    {
+      "timestamp": "2026-07-07 06:00",
+      "score": 0.6157,
+      "litres_used": 67.87
+    },
+    {
+      "timestamp": "2026-07-07 21:00",
+      "score": 0.606,
+      "litres_used": 39.7
+    },
+    {
+      "timestamp": "2026-07-09 06:00",
+      "score": 0.6157,
+      "litres_used": 67.98
+    },
+    {
+      "timestamp": "2026-07-09 08:00",
+      "score": 0.6123,
+      "litres_used": 67.19
+    },
+    {
+      "timestamp": "2026-07-10 18:00",
+      "score": 0.6721,
+      "litres_used": 125.82
+    },
+    {
+      "timestamp": "2026-07-11 10:00",
+      "score": 0.6702,
+      "litres_used": 37.9
+    },
+    {
+      "timestamp": "2026-07-12 10:00",
+      "score": 0.6559,
+      "litres_used": 33.36
+    }
+  ],
+  "limitation": "The model is trained on generated baseline records. It demonstrates the workflow but must be retrained and validated with real meter data before operational use."
+}

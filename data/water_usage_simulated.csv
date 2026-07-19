@@ -1,0 +1,337 @@
+timestamp,date,hour,litres_used,primary_source,event_label,occupants
+2026-07-01 00:00,2026-07-01,0,2.35,Background use,Normal,4
+2026-07-01 01:00,2026-07-01,1,0.38,Background use,Normal,4
+2026-07-01 02:00,2026-07-01,2,1.18,Background use,Normal,4
+2026-07-01 03:00,2026-07-01,3,1.01,Background use,Normal,4
+2026-07-01 04:00,2026-07-01,4,2.66,Background use,Normal,4
+2026-07-01 05:00,2026-07-01,5,2.47,Background use,Normal,4
+2026-07-01 06:00,2026-07-01,6,65.2,Bathroom,Normal,4
+2026-07-01 07:00,2026-07-01,7,44.26,Bathroom,Normal,4
+2026-07-01 08:00,2026-07-01,8,52.97,Bathroom,Normal,4
+2026-07-01 09:00,2026-07-01,9,0.4,Background use,Normal,4
+2026-07-01 10:00,2026-07-01,10,1.0,Background use,Normal,4
+2026-07-01 11:00,2026-07-01,11,1.92,Background use,Normal,4
+2026-07-01 12:00,2026-07-01,12,0.38,Background use,Normal,4
+2026-07-01 13:00,2026-07-01,13,17.58,Kitchen,Normal,4
+2026-07-01 14:00,2026-07-01,14,2.38,Background use,Normal,4
+2026-07-01 15:00,2026-07-01,15,2.04,Background use,Normal,4
+2026-07-01 16:00,2026-07-01,16,1.01,Background use,Normal,4
+2026-07-01 17:00,2026-07-01,17,15.07,Garden,Normal,4
+2026-07-01 18:00,2026-07-01,18,17.71,Garden,Normal,4
+2026-07-01 19:00,2026-07-01,19,38.16,Kitchen/Bathroom,Normal,4
+2026-07-01 20:00,2026-07-01,20,57.34,Kitchen/Bathroom,Normal,4
+2026-07-01 21:00,2026-07-01,21,54.76,Kitchen/Bathroom,Normal,4
+2026-07-01 22:00,2026-07-01,22,1.39,Background use,Normal,4
+2026-07-01 23:00,2026-07-01,23,0.8,Background use,Normal,4
+2026-07-02 00:00,2026-07-02,0,3.36,Background use,Normal,4
+2026-07-02 01:00,2026-07-02,1,1.38,Background use,Normal,4
+2026-07-02 02:00,2026-07-02,2,0.6,Background use,Normal,4
+2026-07-02 03:00,2026-07-02,3,0.61,Background use,Normal,4
+2026-07-02 04:00,2026-07-02,4,3.01,Background use,Normal,4
+2026-07-02 05:00,2026-07-02,5,2.23,Background use,Normal,4
+2026-07-02 06:00,2026-07-02,6,62.99,Bathroom,Normal,4
+2026-07-02 07:00,2026-07-02,7,60.97,Bathroom,Normal,4
+2026-07-02 08:00,2026-07-02,8,55.94,Bathroom,Normal,4
+2026-07-02 09:00,2026-07-02,9,3.41,Background use,Normal,4
+2026-07-02 10:00,2026-07-02,10,1.51,Background use,Normal,4
+2026-07-02 11:00,2026-07-02,11,2.07,Background use,Normal,4
+2026-07-02 12:00,2026-07-02,12,2.95,Background use,Normal,4
+2026-07-02 13:00,2026-07-02,13,23.04,Kitchen,Normal,4
+2026-07-02 14:00,2026-07-02,14,3.06,Background use,Normal,4
+2026-07-02 15:00,2026-07-02,15,2.15,Background use,Normal,4
+2026-07-02 16:00,2026-07-02,16,2.55,Background use,Normal,4
+2026-07-02 17:00,2026-07-02,17,8.55,Garden,Normal,4
+2026-07-02 18:00,2026-07-02,18,10.73,Garden,Normal,4
+2026-07-02 19:00,2026-07-02,19,44.95,Kitchen/Bathroom,Normal,4
+2026-07-02 20:00,2026-07-02,20,39.92,Kitchen/Bathroom,Normal,4
+2026-07-02 21:00,2026-07-02,21,43.59,Kitchen/Bathroom,Normal,4
+2026-07-02 22:00,2026-07-02,22,0.62,Background use,Normal,4
+2026-07-02 23:00,2026-07-02,23,1.19,Background use,Normal,4
+2026-07-03 00:00,2026-07-03,0,2.33,Background use,Normal,4
+2026-07-03 01:00,2026-07-03,1,1.47,Background use,Normal,4
+2026-07-03 02:00,2026-07-03,2,1.48,Background use,Normal,4
+2026-07-03 03:00,2026-07-03,3,0.97,Background use,Normal,4
+2026-07-03 04:00,2026-07-03,4,1.15,Background use,Normal,4
+2026-07-03 05:00,2026-07-03,5,3.3,Background use,Normal,4
+2026-07-03 06:00,2026-07-03,6,58.85,Bathroom,Normal,4
+2026-07-03 07:00,2026-07-03,7,57.84,Bathroom,Normal,4
+2026-07-03 08:00,2026-07-03,8,46.45,Bathroom,Normal,4
+2026-07-03 09:00,2026-07-03,9,2.63,Background use,Normal,4
+2026-07-03 10:00,2026-07-03,10,0.82,Background use,Normal,4
+2026-07-03 11:00,2026-07-03,11,1.51,Background use,Normal,4
+2026-07-03 12:00,2026-07-03,12,3.47,Background use,Normal,4
+2026-07-03 13:00,2026-07-03,13,23.32,Kitchen,Normal,4
+2026-07-03 14:00,2026-07-03,14,2.08,Background use,Normal,4
+2026-07-03 15:00,2026-07-03,15,2.49,Background use,Normal,4
+2026-07-03 16:00,2026-07-03,16,3.0,Background use,Normal,4
+2026-07-03 17:00,2026-07-03,17,17.31,Garden,Normal,4
+2026-07-03 18:00,2026-07-03,18,10.75,Garden,Normal,4
+2026-07-03 19:00,2026-07-03,19,38.77,Kitchen/Bathroom,Normal,4
+2026-07-03 20:00,2026-07-03,20,45.57,Kitchen/Bathroom,Normal,4
+2026-07-03 21:00,2026-07-03,21,44.43,Kitchen/Bathroom,Normal,4
+2026-07-03 22:00,2026-07-03,22,0.98,Background use,Normal,4
+2026-07-03 23:00,2026-07-03,23,3.32,Background use,Normal,4
+2026-07-04 00:00,2026-07-04,0,3.1,Background use,Normal,4
+2026-07-04 01:00,2026-07-04,1,1.31,Background use,Normal,4
+2026-07-04 02:00,2026-07-04,2,2.4,Background use,Normal,4
+2026-07-04 03:00,2026-07-04,3,1.57,Background use,Normal,4
+2026-07-04 04:00,2026-07-04,4,3.23,Background use,Normal,4
+2026-07-04 05:00,2026-07-04,5,1.77,Background use,Normal,4
+2026-07-04 06:00,2026-07-04,6,48.89,Bathroom,Normal,4
+2026-07-04 07:00,2026-07-04,7,48.41,Bathroom,Normal,4
+2026-07-04 08:00,2026-07-04,8,56.6,Bathroom,Normal,4
+2026-07-04 09:00,2026-07-04,9,1.14,Background use,Normal,4
+2026-07-04 10:00,2026-07-04,10,44.61,Laundry,Normal,4
+2026-07-04 11:00,2026-07-04,11,3.17,Background use,Normal,4
+2026-07-04 12:00,2026-07-04,12,1.58,Background use,Normal,4
+2026-07-04 13:00,2026-07-04,13,17.85,Kitchen,Normal,4
+2026-07-04 14:00,2026-07-04,14,3.49,Background use,Normal,4
+2026-07-04 15:00,2026-07-04,15,1.93,Background use,Normal,4
+2026-07-04 16:00,2026-07-04,16,0.59,Background use,Normal,4
+2026-07-04 17:00,2026-07-04,17,8.57,Garden,Normal,4
+2026-07-04 18:00,2026-07-04,18,9.32,Garden,Normal,4
+2026-07-04 19:00,2026-07-04,19,53.06,Kitchen/Bathroom,Normal,4
+2026-07-04 20:00,2026-07-04,20,57.01,Kitchen/Bathroom,Normal,4
+2026-07-04 21:00,2026-07-04,21,48.13,Kitchen/Bathroom,Normal,4
+2026-07-04 22:00,2026-07-04,22,0.5,Background use,Normal,4
+2026-07-04 23:00,2026-07-04,23,1.52,Background use,Normal,4
+2026-07-05 00:00,2026-07-05,0,3.49,Background use,Normal,4
+2026-07-05 01:00,2026-07-05,1,1.99,Background use,Normal,4
+2026-07-05 02:00,2026-07-05,2,3.41,Background use,Normal,4
+2026-07-05 03:00,2026-07-05,3,3.05,Background use,Normal,4
+2026-07-05 04:00,2026-07-05,4,0.34,Background use,Normal,4
+2026-07-05 05:00,2026-07-05,5,2.61,Background use,Normal,4
+2026-07-05 06:00,2026-07-05,6,59.72,Bathroom,Normal,4
+2026-07-05 07:00,2026-07-05,7,55.96,Bathroom,Normal,4
+2026-07-05 08:00,2026-07-05,8,48.94,Bathroom,Normal,4
+2026-07-05 09:00,2026-07-05,9,2.35,Background use,Normal,4
+2026-07-05 10:00,2026-07-05,10,32.79,Laundry,Normal,4
+2026-07-05 11:00,2026-07-05,11,1.69,Background use,Normal,4
+2026-07-05 12:00,2026-07-05,12,1.75,Background use,Normal,4
+2026-07-05 13:00,2026-07-05,13,27.4,Kitchen,Normal,4
+2026-07-05 14:00,2026-07-05,14,3.1,Background use,Normal,4
+2026-07-05 15:00,2026-07-05,15,1.14,Background use,Normal,4
+2026-07-05 16:00,2026-07-05,16,1.9,Background use,Normal,4
+2026-07-05 17:00,2026-07-05,17,10.14,Garden,Normal,4
+2026-07-05 18:00,2026-07-05,18,18.95,Garden,Normal,4
+2026-07-05 19:00,2026-07-05,19,58.89,Kitchen/Bathroom,Normal,4
+2026-07-05 20:00,2026-07-05,20,45.16,Kitchen/Bathroom,Normal,4
+2026-07-05 21:00,2026-07-05,21,53.33,Kitchen/Bathroom,Normal,4
+2026-07-05 22:00,2026-07-05,22,2.25,Background use,Normal,4
+2026-07-05 23:00,2026-07-05,23,0.79,Background use,Normal,4
+2026-07-06 00:00,2026-07-06,0,14.74,Possible tap/toilet leak,Simulated overnight leak,4
+2026-07-06 01:00,2026-07-06,1,14.03,Possible tap/toilet leak,Simulated overnight leak,4
+2026-07-06 02:00,2026-07-06,2,14.79,Possible tap/toilet leak,Simulated overnight leak,4
+2026-07-06 03:00,2026-07-06,3,14.0,Possible tap/toilet leak,Simulated overnight leak,4
+2026-07-06 04:00,2026-07-06,4,12.3,Possible tap/toilet leak,Simulated overnight leak,4
+2026-07-06 05:00,2026-07-06,5,13.34,Possible tap/toilet leak,Simulated overnight leak,4
+2026-07-06 06:00,2026-07-06,6,42.51,Bathroom,Normal,4
+2026-07-06 07:00,2026-07-06,7,66.16,Bathroom,Normal,4
+2026-07-06 08:00,2026-07-06,8,64.85,Bathroom,Normal,4
+2026-07-06 09:00,2026-07-06,9,2.96,Background use,Normal,4
+2026-07-06 10:00,2026-07-06,10,1.28,Background use,Normal,4
+2026-07-06 11:00,2026-07-06,11,0.49,Background use,Normal,4
+2026-07-06 12:00,2026-07-06,12,3.11,Background use,Normal,4
+2026-07-06 13:00,2026-07-06,13,27.31,Kitchen,Normal,4
+2026-07-06 14:00,2026-07-06,14,0.57,Background use,Normal,4
+2026-07-06 15:00,2026-07-06,15,1.86,Background use,Normal,4
+2026-07-06 16:00,2026-07-06,16,0.52,Background use,Normal,4
+2026-07-06 17:00,2026-07-06,17,17.13,Garden,Normal,4
+2026-07-06 18:00,2026-07-06,18,17.19,Garden,Normal,4
+2026-07-06 19:00,2026-07-06,19,41.08,Kitchen/Bathroom,Normal,4
+2026-07-06 20:00,2026-07-06,20,49.41,Kitchen/Bathroom,Normal,4
+2026-07-06 21:00,2026-07-06,21,51.2,Kitchen/Bathroom,Normal,4
+2026-07-06 22:00,2026-07-06,22,1.15,Background use,Normal,4
+2026-07-06 23:00,2026-07-06,23,3.09,Background use,Normal,4
+2026-07-07 00:00,2026-07-07,0,1.65,Background use,Normal,4
+2026-07-07 01:00,2026-07-07,1,0.98,Background use,Normal,4
+2026-07-07 02:00,2026-07-07,2,2.03,Background use,Normal,4
+2026-07-07 03:00,2026-07-07,3,2.64,Background use,Normal,4
+2026-07-07 04:00,2026-07-07,4,0.94,Background use,Normal,4
+2026-07-07 05:00,2026-07-07,5,1.3,Background use,Normal,4
+2026-07-07 06:00,2026-07-07,6,67.87,Bathroom,Normal,4
+2026-07-07 07:00,2026-07-07,7,58.9,Bathroom,Normal,4
+2026-07-07 08:00,2026-07-07,8,53.39,Bathroom,Normal,4
+2026-07-07 09:00,2026-07-07,9,1.96,Background use,Normal,4
+2026-07-07 10:00,2026-07-07,10,0.69,Background use,Normal,4
+2026-07-07 11:00,2026-07-07,11,1.02,Background use,Normal,4
+2026-07-07 12:00,2026-07-07,12,1.38,Background use,Normal,4
+2026-07-07 13:00,2026-07-07,13,22.65,Kitchen,Normal,4
+2026-07-07 14:00,2026-07-07,14,1.04,Background use,Normal,4
+2026-07-07 15:00,2026-07-07,15,1.0,Background use,Normal,4
+2026-07-07 16:00,2026-07-07,16,0.53,Background use,Normal,4
+2026-07-07 17:00,2026-07-07,17,15.57,Garden,Normal,4
+2026-07-07 18:00,2026-07-07,18,10.75,Garden,Normal,4
+2026-07-07 19:00,2026-07-07,19,59.73,Kitchen/Bathroom,Normal,4
+2026-07-07 20:00,2026-07-07,20,58.63,Kitchen/Bathroom,Normal,4
+2026-07-07 21:00,2026-07-07,21,39.7,Kitchen/Bathroom,Normal,4
+2026-07-07 22:00,2026-07-07,22,1.06,Background use,Normal,4
+2026-07-07 23:00,2026-07-07,23,2.44,Background use,Normal,4
+2026-07-08 00:00,2026-07-08,0,0.99,Background use,Normal,4
+2026-07-08 01:00,2026-07-08,1,0.72,Background use,Normal,4
+2026-07-08 02:00,2026-07-08,2,3.29,Background use,Normal,4
+2026-07-08 03:00,2026-07-08,3,2.13,Background use,Normal,4
+2026-07-08 04:00,2026-07-08,4,1.81,Background use,Normal,4
+2026-07-08 05:00,2026-07-08,5,2.81,Background use,Normal,4
+2026-07-08 06:00,2026-07-08,6,62.99,Bathroom,Normal,4
+2026-07-08 07:00,2026-07-08,7,46.95,Bathroom,Normal,4
+2026-07-08 08:00,2026-07-08,8,44.52,Bathroom,Normal,4
+2026-07-08 09:00,2026-07-08,9,1.68,Background use,Normal,4
+2026-07-08 10:00,2026-07-08,10,1.66,Background use,Normal,4
+2026-07-08 11:00,2026-07-08,11,1.79,Background use,Normal,4
+2026-07-08 12:00,2026-07-08,12,2.63,Background use,Normal,4
+2026-07-08 13:00,2026-07-08,13,23.75,Kitchen,Normal,4
+2026-07-08 14:00,2026-07-08,14,3.45,Background use,Normal,4
+2026-07-08 15:00,2026-07-08,15,0.61,Background use,Normal,4
+2026-07-08 16:00,2026-07-08,16,1.59,Background use,Normal,4
+2026-07-08 17:00,2026-07-08,17,12.07,Garden,Normal,4
+2026-07-08 18:00,2026-07-08,18,18.34,Garden,Normal,4
+2026-07-08 19:00,2026-07-08,19,43.97,Kitchen/Bathroom,Normal,4
+2026-07-08 20:00,2026-07-08,20,42.57,Kitchen/Bathroom,Normal,4
+2026-07-08 21:00,2026-07-08,21,48.77,Kitchen/Bathroom,Normal,4
+2026-07-08 22:00,2026-07-08,22,1.65,Background use,Normal,4
+2026-07-08 23:00,2026-07-08,23,1.19,Background use,Normal,4
+2026-07-09 00:00,2026-07-09,0,1.1,Background use,Normal,4
+2026-07-09 01:00,2026-07-09,1,3.25,Background use,Normal,4
+2026-07-09 02:00,2026-07-09,2,1.72,Background use,Normal,4
+2026-07-09 03:00,2026-07-09,3,3.06,Background use,Normal,4
+2026-07-09 04:00,2026-07-09,4,2.06,Background use,Normal,4
+2026-07-09 05:00,2026-07-09,5,0.46,Background use,Normal,4
+2026-07-09 06:00,2026-07-09,6,67.98,Bathroom,Normal,4
+2026-07-09 07:00,2026-07-09,7,63.74,Bathroom,Normal,4
+2026-07-09 08:00,2026-07-09,8,67.19,Bathroom,Normal,4
+2026-07-09 09:00,2026-07-09,9,3.26,Background use,Normal,4
+2026-07-09 10:00,2026-07-09,10,3.02,Background use,Normal,4
+2026-07-09 11:00,2026-07-09,11,0.83,Background use,Normal,4
+2026-07-09 12:00,2026-07-09,12,1.85,Background use,Normal,4
+2026-07-09 13:00,2026-07-09,13,17.78,Kitchen,Normal,4
+2026-07-09 14:00,2026-07-09,14,1.58,Background use,Normal,4
+2026-07-09 15:00,2026-07-09,15,0.49,Background use,Normal,4
+2026-07-09 16:00,2026-07-09,16,1.51,Background use,Normal,4
+2026-07-09 17:00,2026-07-09,17,19.82,Garden,Normal,4
+2026-07-09 18:00,2026-07-09,18,11.18,Garden,Normal,4
+2026-07-09 19:00,2026-07-09,19,56.82,Kitchen/Bathroom,Normal,4
+2026-07-09 20:00,2026-07-09,20,48.92,Kitchen/Bathroom,Normal,4
+2026-07-09 21:00,2026-07-09,21,48.15,Kitchen/Bathroom,Normal,4
+2026-07-09 22:00,2026-07-09,22,3.36,Background use,Normal,4
+2026-07-09 23:00,2026-07-09,23,3.49,Background use,Normal,4
+2026-07-10 00:00,2026-07-10,0,2.08,Background use,Normal,4
+2026-07-10 01:00,2026-07-10,1,2.6,Background use,Normal,4
+2026-07-10 02:00,2026-07-10,2,0.8,Background use,Normal,4
+2026-07-10 03:00,2026-07-10,3,1.25,Background use,Normal,4
+2026-07-10 04:00,2026-07-10,4,3.4,Background use,Normal,4
+2026-07-10 05:00,2026-07-10,5,2.15,Background use,Normal,4
+2026-07-10 06:00,2026-07-10,6,56.1,Bathroom,Normal,4
+2026-07-10 07:00,2026-07-10,7,61.45,Bathroom,Normal,4
+2026-07-10 08:00,2026-07-10,8,43.49,Bathroom,Normal,4
+2026-07-10 09:00,2026-07-10,9,2.17,Background use,Normal,4
+2026-07-10 10:00,2026-07-10,10,1.91,Background use,Normal,4
+2026-07-10 11:00,2026-07-10,11,3.03,Background use,Normal,4
+2026-07-10 12:00,2026-07-10,12,0.8,Background use,Normal,4
+2026-07-10 13:00,2026-07-10,13,27.49,Kitchen,Normal,4
+2026-07-10 14:00,2026-07-10,14,0.56,Background use,Normal,4
+2026-07-10 15:00,2026-07-10,15,0.89,Background use,Normal,4
+2026-07-10 16:00,2026-07-10,16,2.2,Background use,Normal,4
+2026-07-10 17:00,2026-07-10,17,16.1,Garden,Normal,4
+2026-07-10 18:00,2026-07-10,18,125.82,Garden,Simulated high garden use,4
+2026-07-10 19:00,2026-07-10,19,40.88,Kitchen/Bathroom,Normal,4
+2026-07-10 20:00,2026-07-10,20,59.37,Kitchen/Bathroom,Normal,4
+2026-07-10 21:00,2026-07-10,21,43.91,Kitchen/Bathroom,Normal,4
+2026-07-10 22:00,2026-07-10,22,2.2,Background use,Normal,4
+2026-07-10 23:00,2026-07-10,23,2.28,Background use,Normal,4
+2026-07-11 00:00,2026-07-11,0,1.64,Background use,Normal,4
+2026-07-11 01:00,2026-07-11,1,2.17,Background use,Normal,4
+2026-07-11 02:00,2026-07-11,2,1.97,Background use,Normal,4
+2026-07-11 03:00,2026-07-11,3,3.29,Background use,Normal,4
+2026-07-11 04:00,2026-07-11,4,0.95,Background use,Normal,4
+2026-07-11 05:00,2026-07-11,5,2.59,Background use,Normal,4
+2026-07-11 06:00,2026-07-11,6,48.21,Bathroom,Normal,4
+2026-07-11 07:00,2026-07-11,7,52.29,Bathroom,Normal,4
+2026-07-11 08:00,2026-07-11,8,59.46,Bathroom,Normal,4
+2026-07-11 09:00,2026-07-11,9,1.26,Background use,Normal,4
+2026-07-11 10:00,2026-07-11,10,37.9,Laundry,Normal,4
+2026-07-11 11:00,2026-07-11,11,2.71,Background use,Normal,4
+2026-07-11 12:00,2026-07-11,12,0.53,Background use,Normal,4
+2026-07-11 13:00,2026-07-11,13,20.96,Kitchen,Normal,4
+2026-07-11 14:00,2026-07-11,14,3.5,Background use,Normal,4
+2026-07-11 15:00,2026-07-11,15,3.49,Background use,Normal,4
+2026-07-11 16:00,2026-07-11,16,0.53,Background use,Normal,4
+2026-07-11 17:00,2026-07-11,17,10.56,Garden,Normal,4
+2026-07-11 18:00,2026-07-11,18,11.18,Garden,Normal,4
+2026-07-11 19:00,2026-07-11,19,60.4,Kitchen/Bathroom,Normal,4
+2026-07-11 20:00,2026-07-11,20,59.14,Kitchen/Bathroom,Normal,4
+2026-07-11 21:00,2026-07-11,21,59.1,Kitchen/Bathroom,Normal,4
+2026-07-11 22:00,2026-07-11,22,1.48,Background use,Normal,4
+2026-07-11 23:00,2026-07-11,23,0.8,Background use,Normal,4
+2026-07-12 00:00,2026-07-12,0,2.97,Background use,Normal,4
+2026-07-12 01:00,2026-07-12,1,2.55,Background use,Normal,4
+2026-07-12 02:00,2026-07-12,2,2.26,Background use,Normal,4
+2026-07-12 03:00,2026-07-12,3,3.46,Background use,Normal,4
+2026-07-12 04:00,2026-07-12,4,2.39,Background use,Normal,4
+2026-07-12 05:00,2026-07-12,5,0.33,Background use,Normal,4
+2026-07-12 06:00,2026-07-12,6,63.24,Bathroom,Normal,4
+2026-07-12 07:00,2026-07-12,7,49.78,Bathroom,Normal,4
+2026-07-12 08:00,2026-07-12,8,59.25,Bathroom,Normal,4
+2026-07-12 09:00,2026-07-12,9,3.3,Background use,Normal,4
+2026-07-12 10:00,2026-07-12,10,33.36,Laundry,Normal,4
+2026-07-12 11:00,2026-07-12,11,0.67,Background use,Normal,4
+2026-07-12 12:00,2026-07-12,12,0.64,Background use,Normal,4
+2026-07-12 13:00,2026-07-12,13,22.19,Kitchen,Normal,4
+2026-07-12 14:00,2026-07-12,14,1.17,Background use,Normal,4
+2026-07-12 15:00,2026-07-12,15,2.24,Background use,Normal,4
+2026-07-12 16:00,2026-07-12,16,2.6,Background use,Normal,4
+2026-07-12 17:00,2026-07-12,17,10.44,Garden,Normal,4
+2026-07-12 18:00,2026-07-12,18,15.61,Garden,Normal,4
+2026-07-12 19:00,2026-07-12,19,44.34,Kitchen/Bathroom,Normal,4
+2026-07-12 20:00,2026-07-12,20,49.72,Kitchen/Bathroom,Normal,4
+2026-07-12 21:00,2026-07-12,21,59.73,Kitchen/Bathroom,Normal,4
+2026-07-12 22:00,2026-07-12,22,3.01,Background use,Normal,4
+2026-07-12 23:00,2026-07-12,23,0.6,Background use,Normal,4
+2026-07-13 00:00,2026-07-13,0,1.66,Background use,Normal,4
+2026-07-13 01:00,2026-07-13,1,1.19,Background use,Normal,4
+2026-07-13 02:00,2026-07-13,2,0.31,Background use,Normal,4
+2026-07-13 03:00,2026-07-13,3,2.77,Background use,Normal,4
+2026-07-13 04:00,2026-07-13,4,2.34,Background use,Normal,4
+2026-07-13 05:00,2026-07-13,5,1.14,Background use,Normal,4
+2026-07-13 06:00,2026-07-13,6,61.27,Bathroom,Normal,4
+2026-07-13 07:00,2026-07-13,7,56.34,Bathroom,Normal,4
+2026-07-13 08:00,2026-07-13,8,53.12,Bathroom,Normal,4
+2026-07-13 09:00,2026-07-13,9,0.33,Background use,Normal,4
+2026-07-13 10:00,2026-07-13,10,0.54,Background use,Normal,4
+2026-07-13 11:00,2026-07-13,11,3.13,Background use,Normal,4
+2026-07-13 12:00,2026-07-13,12,3.19,Background use,Normal,4
+2026-07-13 13:00,2026-07-13,13,22.09,Kitchen,Normal,4
+2026-07-13 14:00,2026-07-13,14,2.97,Background use,Normal,4
+2026-07-13 15:00,2026-07-13,15,2.16,Background use,Normal,4
+2026-07-13 16:00,2026-07-13,16,0.77,Background use,Normal,4
+2026-07-13 17:00,2026-07-13,17,9.53,Garden,Normal,4
+2026-07-13 18:00,2026-07-13,18,11.7,Garden,Normal,4
+2026-07-13 19:00,2026-07-13,19,59.58,Kitchen/Bathroom,Normal,4
+2026-07-13 20:00,2026-07-13,20,57.11,Kitchen/Bathroom,Normal,4
+2026-07-13 21:00,2026-07-13,21,58.66,Kitchen/Bathroom,Normal,4
+2026-07-13 22:00,2026-07-13,22,3.18,Background use,Normal,4
+2026-07-13 23:00,2026-07-13,23,0.97,Background use,Normal,4
+2026-07-14 00:00,2026-07-14,0,1.1,Background use,Normal,4
+2026-07-14 01:00,2026-07-14,1,0.63,Background use,Normal,4
+2026-07-14 02:00,2026-07-14,2,2.8,Background use,Normal,4
+2026-07-14 03:00,2026-07-14,3,3.13,Background use,Normal,4
+2026-07-14 04:00,2026-07-14,4,1.6,Background use,Normal,4
+2026-07-14 05:00,2026-07-14,5,2.29,Background use,Normal,4
+2026-07-14 06:00,2026-07-14,6,46.02,Bathroom,Normal,4
+2026-07-14 07:00,2026-07-14,7,66.18,Bathroom,Normal,4
+2026-07-14 08:00,2026-07-14,8,64.48,Bathroom,Normal,4
+2026-07-14 09:00,2026-07-14,9,3.42,Background use,Normal,4
+2026-07-14 10:00,2026-07-14,10,2.89,Background use,Normal,4
+2026-07-14 11:00,2026-07-14,11,3.12,Background use,Normal,4
+2026-07-14 12:00,2026-07-14,12,0.38,Background use,Normal,4
+2026-07-14 13:00,2026-07-14,13,24.58,Kitchen,Normal,4
+2026-07-14 14:00,2026-07-14,14,1.36,Background use,Normal,4
+2026-07-14 15:00,2026-07-14,15,3.28,Background use,Normal,4
+2026-07-14 16:00,2026-07-14,16,2.87,Background use,Normal,4
+2026-07-14 17:00,2026-07-14,17,18.37,Garden,Normal,4
+2026-07-14 18:00,2026-07-14,18,17.73,Garden,Normal,4
+2026-07-14 19:00,2026-07-14,19,44.4,Kitchen/Bathroom,Normal,4
+2026-07-14 20:00,2026-07-14,20,56.9,Kitchen/Bathroom,Normal,4
+2026-07-14 21:00,2026-07-14,21,40.59,Kitchen/Bathroom,Normal,4
+2026-07-14 22:00,2026-07-14,22,3.09,Background use,Normal,4
+2026-07-14 23:00,2026-07-14,23,3.05,Background use,Normal,4
