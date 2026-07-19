@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- <link rel="icon" href="https://cdn.pixabay.com/photo/2024/08/14/16/04/ai-generated-8968977_1280.jpg">  -->
+     <link rel="icon" href="https://img.freepik.com/premium-psd/single-water-drop-black_68880-213054.jpg">
+    <!--Favicon: to display title icon in the title of the webpage-->
+    <title>AquaSave AI | Water Wastage Detector</title>
+    <meta name="description" content="A lightweight water-wastage detection and conservation simulator." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="water-background" aria-hidden="true">
+      <span class="water-orb orb-one"></span>
+      <span class="water-orb orb-two"></span>
+      <span class="water-orb orb-three"></span>
+      <span class="wave wave-one"></span>
+      <span class="wave wave-two"></span>
+      <span class="ripple-ring ring-one"></span>
+      <span class="ripple-ring ring-two"></span>
+      <span class="ripple-ring ring-three"></span>
+    </div>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">SUSTAINABILITY PROTOTYPE</p>
+        <h1>AquaSave <span>AI</span></h1>
+        <p class="tagline">Detect water wastage. Simulate practical savings.</p>
+      </div>
+      <p class="monitoring" id="monitoring-period"></p>
+    </header>
+
+    <main>
+      <section class="metrics" aria-label="Monitoring summary">
+        <article><p>Total monitored use</p><strong id="total-use">—</strong><small>litres in 14 days</small></article>
+        <article><p>Average daily use</p><strong id="daily-use">—</strong><small>litres per day</small></article>
+        <article class="highlight"><p>Potential waste</p><strong id="potential-waste">—</strong><small>litres identified</small></article>
+        <article><p>Alerts requiring review</p><strong id="alert-count">—</strong><small>explainable detection rules</small></article>
+      </section>
+
+      <section class="panel upload-panel">
+        <div class="section-heading"><div><p class="eyebrow">USER DATA ANALYSIS</p><h2>Analyse a water-use CSV</h2></div><p id="upload-status">Using the included 14-day simulation.</p></div>
+        <p class="upload-help">Upload a CSV with <code>timestamp</code>, <code>date</code>, <code>hour</code>, <code>litres_used</code>, and <code>primary_source</code> columns. Your file stays in this browser.</p>
+        <div class="upload-actions"><label class="file-label" for="csv-upload">Choose CSV file</label><input id="csv-upload" type="file" accept=".csv,text/csv" /><button id="download-report" type="button">Download analysis report</button></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading"><div><p class="eyebrow">STEP 4</p><h2>Water-use trend</h2></div><p>Each bar represents one monitored day.</p></div>
+        <div class="bar-chart" id="daily-chart" aria-label="Daily water-use chart"></div>
+        <div class="chart-axis"><span>Start</span><span>End</span></div>
+      </section>
+
+      <section class="two-columns">
+        <article class="panel">
+          <div class="section-heading"><div><p class="eyebrow">DETECTION RESULTS</p><h2>Alerts</h2></div></div>
+          <div id="alerts"></div>
+        </article>
+        <article class="panel simulator">
+          <div class="section-heading"><div><p class="eyebrow">WHAT-IF SIMULATOR</p><h2>Conservation actions</h2></div></div>
+          <label>Fix leak: <strong id="leak-value">0</strong> litres/month
+            <input id="leak-slider" type="range" min="0" max="1000" value="250" step="10" />
+          </label>
+          <label>Reduce shower use: <strong id="shower-value">0</strong> litres/month
+            <input id="shower-slider" type="range" min="0" max="1000" value="160" step="10" />
+          </label>
+          <div class="simulation-result">
+            <p>Estimated monthly saving</p><strong id="simulation-litres">—</strong><span>litres</span>
+            <p id="simulation-impact"></p>
+          </div>
+        </article>
+      </section>
+
+      <section class="panel ai-panel" id="ai-panel">
+        <div class="section-heading"><div><p class="eyebrow">OPTIONAL AI LAYER</p><h2>Isolation Forest evaluation</h2></div><p id="ai-status">Loading model comparison...</p></div>
+        <p id="ai-summary"></p>
+      </section>
+
+      <section class="panel impact">
+        <div><p class="eyebrow">SUSTAINABILITY IMPACT</p><h2>Potential impact of fixing detected wastage</h2></div>
+        <div class="impact-grid"><p><strong id="cost-impact">—</strong><span>estimated ₹ saved</span></p><p><strong id="energy-impact">—</strong><span>kWh pumping energy avoided</span></p><p><strong id="co2-impact">—</strong><span>kg CO₂ avoided</span></p></div>
+        <small>Impact factors are transparent prototype assumptions. See the project documentation before treating them as a formal lifecycle assessment.</small>
+      </section>
+    </main>
+    <footer>AquaSave AI • Simulation-based project • SDG 6: Clean Water and Sanitation</footer>
+    <script src="dashboard_data.js"></script>
+    <script src="ai_analysis_data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
